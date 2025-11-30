@@ -79,7 +79,7 @@
         <h4 align="center">🩺 KoCon: Smart Recovery Gadget</h4>
         <p align="center">
           Designed a market-ready prototype for addiction recovery in an interdisciplinary team. 
-          Collaborated with international experts & organizations to validate the product. Led technical planning & App development.
+          Collaborated with international experts & organizations to validate the product logic. Led the <b>technical architecture</b> (React App & IoT/Microcontroller integration).
           <br/><br/>
           <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
           <img src="https://img.shields.io/badge/IoT_&_Microcontrollers-blue?style=flat-square&logo=arduino&logoColor=white" />
@@ -87,13 +87,15 @@
         </p>
       </td>
       <td width="50%" valign="top">
-        <h4 align="center">⚡ Sparky Energieberater AI</h4>
+        <h4 align="center">⚡ Sparky: GenAI & SAP Integration</h4>
         <p align="center">
-          Planned & implemented a custom multi-channel AI chatbot (Web, Telegram, Email). Personally led the full-stack development.
+          <b>Sole Full-Stack Developer</b> for a multi-channel AI assistant (Web, Telegram, Email).
+          <br/>
+          Engineered a custom integration with <b>SAP APIs</b> to fetch real-time consumption data, bridging the gap between legacy ERP systems and modern Generative AI (Google Gemini).
           <br/><br/>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-          <img src="https://img.shields.io/badge/Google_Gemini-AI-8E75B2?style=flat-square&logo=googlebard&logoColor=white" />
-          <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+          <img src="https://img.shields.io/badge/SAP_Integration-008FD3?style=flat-square&logo=sap&logoColor=white" />
+          <img src="https://img.shields.io/badge/Python_Backend-3776AB?style=flat-square&logo=python&logoColor=white" />
+          <img src="https://img.shields.io/badge/LLM_Engineering-8E75B2?style=flat-square&logo=googlebard&logoColor=white" />
         </p>
       </td>
     </tr>
