@@ -118,20 +118,38 @@
     </tr>
   </table>
 </div>
+
 <hr/>
 
 <h3 align="center">📊 Coding Activity & Analytics</h3>
 
 <div align="center">
   <a href="https://github.com/sanadly">
-    <img src="https://github-readme-stats.vercel.app/api?username=sanadly&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170" alt="stats graph" />
+    <img src="https://github-readme-stats.vercel.app/api?username=sanadly&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" height="160" alt="stats graph" />
   </a>
   <a href="https://github.com/sanadly">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanadly&theme=tokyonight&hide_border=true&bg_color=0D1117&date_format=M%20j%5B%2C%20Y%5D" height="170" alt="streak graph" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanadly&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=6" height="160" alt="languages graph" />
   </a>
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sanadly/sanadly/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation" />
+  <a href="https://github.com/sanadly">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanadly&theme=tokyonight&hide_border=true&bg_color=0D1117&date_format=M%20j%5B%2C%20Y%5D" alt="streak graph" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=sanadly&theme=tokyonight&no-frame=true&margin-w=15&row=1" alt="trophies" />
+  </a>
+</div>
+
+<br/>
+<div align="center">
+  <img src="https://img.shields.io/badge/Current_Academic_Focus-Thesis:_AI_in_IT_Service_Management-blueviolet?style=for-the-badge&logo=robotframework&logoColor=white" />
 </div>
 <br/>
