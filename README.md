@@ -76,13 +76,14 @@
   <table>
     <tr>
       <td width="50%" valign="top">
-        <h4 align="center">🤖 AI in IT Service Mgmt (Thesis)</h4>
+        <h4 align="center">🩺 KoCon: Smart Recovery Gadget</h4>
         <p align="center">
-          Investigating how Large Language Models (LLMs) can automate Tier-1 support tickets and incident classification.
+          Designed a market-ready prototype for addiction recovery in an interdisciplinary team. 
+          Collaborated with international experts & organizations to validate the product. Led technical planning & App development.
           <br/><br/>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-          <img src="https://img.shields.io/badge/NLP-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-          <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+          <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+          <img src="https://img.shields.io/badge/IoT_&_Microcontrollers-blue?style=flat-square&logo=arduino&logoColor=white" />
+          <img src="https://img.shields.io/badge/Product_Design-F59E0B?style=flat-square&logo=figma&logoColor=white" />
         </p>
       </td>
       <td width="50%" valign="top">
