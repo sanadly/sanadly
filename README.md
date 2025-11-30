@@ -125,7 +125,7 @@
 
 <div align="center">
   <a href="https://github.com/sanadly">
-    <img src="https://github-readme-stats.vercel.app/api?username=sanadly&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" height="160" alt="stats graph" />
+    <img src="https://github-readme-stats.vercel.app/api?username=sanadly&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" alt="stats graph" />
   </a>
   <a href="https://github.com/sanadly">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanadly&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=6" height="160" alt="languages graph" />
