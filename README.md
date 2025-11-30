@@ -57,7 +57,7 @@
 
 <br/>
 
-<h3 align="center">🏆 Key Project Contributions</h3>
+<h3 align="center">🏆 Select University Projects</h3>
 
 | Project | Domain | The Consulting Impact | Tech Stack |
 | :--- | :--- | :--- | :--- |
@@ -72,15 +72,10 @@
 <h3 align="center">📊 Coding Activity & Analytics</h3>
 
 <div align="center">
-  <a href="https://github.com/sanadly">
+  <p>
     <img src="https://github-readme-stats.vercel.app/api?username=sanadly&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170" alt="stats graph" />
-  </a>
-  <a href="https://github.com/sanadly">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanadly&theme=tokyonight&hide_border=true&bg_color=0D1117&date_format=M%20j%5B%2C%20Y%5D" height="170" alt="streak graph" />
-  </a>
-</div>
-
-<div align="center">
+  </p>
   <img src="https://raw.githubusercontent.com/sanadly/sanadly/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation" />
 </div>
 
