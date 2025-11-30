@@ -3,7 +3,7 @@
   <h1 align="center" style="display: inline-block">Hi, I'm <a href="https://github.com/sanadly">Sanad Ghamu</a></h1>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&background=0D111700&center=true&vCenter=true&width=600&lines=Bridging+Software+%26+Business;Co-Founder+@+Raqm+Agency;Aspiring+IT+Consultant;CS+Student+%26+Full+Stack+Dev" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&background=0D111700&center=true&vCenter=true&width=600&lines=Bridging+Software+%26+Business;Software+Engineer;Aspiring+IT+Consultant;CS+Student+%26+Full+Stack+Dev" alt="Typing SVG" />
   </a>
 </div>
 
@@ -21,16 +21,16 @@
 
 <hr/>
 
-<h3 align="center">🚀 The Shift: From Agency Founder to Enterprise Consultant</h3>
+<h3 align="center">🚀 The Journey: From Development to Consulting</h3>
 
 <p align="center" style="font-size: 16px; line-height: 1.5;">
-  During my studies, I co-founded <b>Raqm Agency</b> to test my limits. We successfully built solutions for <b>Logistics, Aviation, and Fintech</b>. 
+  During my studies, I actively contributed to diverse projects in <b>Logistics, Aviation, and Fintech</b>. 
   <br/><br/>
-  Running a startup taught me a crucial lesson: 
+  Working on these complex solutions taught me a crucial lesson: 
   <br/>
   <i>"Technology is only 50% of the battle. The other 50% is Processes, Change Management, and Scalability."</i>
   <br/><br/>
-  Now graduating, I am bringing my <b>entrepreneurial mindset</b> to the world of IT Consulting, combining technical expertise with business strategy.
+  Now graduating, I am eager to deepen my knowledge in the field of IT Consulting, combining technical expertise with business strategy.
 </p>
 
 <br/>
@@ -57,7 +57,7 @@
 
 <br/>
 
-<h3 align="center">🏆 Selected Projects (Raqm Agency Era)</h3>
+<h3 align="center">🏆 Key Project Contributions</h3>
 
 | Project | Domain | The Consulting Impact | Tech Stack |
 | :--- | :--- | :--- | :--- |
