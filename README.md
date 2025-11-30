@@ -64,31 +64,29 @@
 | **Foxline Logistics** | 🚚 Logistics | *"Analyzed manual ops & translated them into digital workflows to replace paper/Excel."* | `Digital Transformation` `Workflow Analysis` |
 | **Darahim** | 💳 Fintech | *"Designed a scalable coalition loyalty program while mitigating financial fraud risks."* | `Fraud Detection` `System Architecture` |
 | **Medsky Airlines** | ✈️ Aviation | *"Integrated local payment methods unavailable in standard gateways to capture market share."* | `API Integration` `PCI Compliance` |
-| **Elite E-Commerce** | 🛒 Retail | *"Automated complex tax rules & custom product logic that standard shops couldn't handle."* | `Process Automation` `B2B Logic` |
+| **Confidential Retail Client** | 🛒 Retail | *"Automated complex tax rules & custom product logic that standard shops couldn't handle."* | `Process Automation` `B2B Logic` |
+
+<br/>
+<hr/>
+
+<h3 align="center">📊 Coding Activity & Analytics</h3>
+
+<div align="center">
+  <a href="https://github.com/sanadly">
+    <img src="https://github-readme-stats.vercel.app/api?username=sanadly&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170" alt="stats graph" />
+  </a>
+  <a href="https://github.com/sanadly">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanadly&theme=tokyonight&hide_border=true&bg_color=0D1117&date_format=M%20j%5B%2C%20Y%5D" height="170" alt="streak graph" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sanadly/sanadly/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation" />
+</div>
 
 <br/>
 
-<h3 align="center">📊 GitHub Activity</h3>
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=sanadly&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="stats" height="160"/>
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanadly&theme=tokyonight&hide_border=true&bg_color=0D1117&stroke=0000" alt="streak" height="160"/>
-      </td>
-    </tr>
-  </table>
+  <img src="https://img.shields.io/badge/Current_Academic_Focus-Thesis:_AI_in_IT_Service_Management-blueviolet?style=for-the-badge&logo=robotframework&logoColor=white" />
 </div>
-
 <br/>
-
-<div align="center">
-  <h3>🎓 Academic Focus</h3>
-  <img src="https://img.shields.io/badge/Thesis-AI_in_IT_Service_Management_(Chatbots)-blueviolet?style=for-the-badge" />
-</div>
-
-<div align="center">
-  <img src="https://github.com/sanadly/sanadly/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
-</div>
