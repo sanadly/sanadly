@@ -121,28 +121,21 @@
 
 <hr/>
 
-<h3 align="center">🎯 Career Focus & Availability</h3>
+<h3 align="center">⚙️ My Technical Workflow</h3>
 <div align="center">
+  <p>The tools and environments I use to drive results.</p>
+  <img src="https://skillicons.dev/icons?i=vscode,postman,figma,linux,githubactions,azure,notion,idea&perline=8" />
+  <br/><br/>
   <table>
     <tr>
-      <td width="50%" valign="top">
-        <h3 align="center">📍 Open for Roles in:</h3>
-        <p align="center">
-           ▪️ <b>IT Consulting</b> (Digital Transformation)<br/>
-           ▪️ <b>Software Engineering</b> (Full Stack)<br/>
-           ▪️ <b>Business Process Analysis</b>
-           <br/><br/>
-           <img src="https://img.shields.io/badge/Location-Open_to_Relocation-blue?style=flat-square&logo=googlemaps&logoColor=white" />
-        </p>
-      </td>
-      <td width="50%" valign="top">
-        <h3 align="center">🗣️ Languages</h3>
-        <p align="center">
-          <img src="https://img.shields.io/badge/English-Professional_Working-blue?style=flat-square" /><br/>
-          <img src="https://img.shields.io/badge/German-Intermediate_(B1/B2)-orange?style=flat-square" /><br/>
-          <img src="https://img.shields.io/badge/Arabic-Native-green?style=flat-square" />
-        </p>
-      </td>
+      <td align="center"><b>Planning & Design</b></td>
+      <td align="center"><b>Development</b></td>
+      <td align="center"><b>DevOps & Cloud</b></td>
+    </tr>
+    <tr>
+      <td align="center">Jira • Figma • Miro</td>
+      <td align="center">VS Code • IntelliJ • Postman</td>
+      <td align="center">Docker • GitHub Actions • Azure</td>
     </tr>
   </table>
 </div>
