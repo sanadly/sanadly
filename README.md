@@ -86,13 +86,13 @@
         </p>
       </td>
       <td width="50%" valign="top">
-        <h4 align="center">📦 Distributed Supply Chain System</h4>
+        <h4 align="center">⚡ Sparky Energieberater AI</h4>
         <p align="center">
-          Built a microservices-based system to simulate high-load inventory tracking across multiple distributed nodes.
+          Planned & implemented a custom multi-channel AI chatbot (Web, Telegram, Email). Personally led the full-stack development.
           <br/><br/>
-          <img src="https://img.shields.io/badge/Java-Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-          <img src="https://img.shields.io/badge/Kafka-Apache-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
-          <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+          <img src="https://img.shields.io/badge/Google_Gemini-AI-8E75B2?style=flat-square&logo=googlebard&logoColor=white" />
+          <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
         </p>
       </td>
     </tr>
