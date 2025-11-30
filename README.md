@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="30" style="margin-bottom:-3px"/>
-  <h1 align="center" style="display: inline-block">Hi, I'm <a href="https://github.com/sanadly">Sanad Ghamu</a></h1>
+  <h1 align="center" style="display: inline-block">Hi, I'm <a href="https://github.com/sanadly">Sanad</a></h1>
   
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&background=0D111700&center=true&vCenter=true&width=600&lines=Bridging+Software+%26+Business;Software+Engineer;Aspiring+IT+Consultant;CS+Student+%26+Full+Stack+Dev" alt="Typing SVG" />
