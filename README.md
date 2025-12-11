@@ -113,7 +113,7 @@
 
 <br/>
 
-<h3 align="center">🛠️ Selected Projects I Delivered</h3>
+<h3 align="center">🎓 Selected University Projects</h3>
 
 <div align="center">
   <table border="0">
@@ -130,10 +130,11 @@
         </p>
       </td>
       <td width="50%" valign="top">
-        <h4 align="center">⚡ Sparky: GenAI & SAP Integration</h4>
+        <h4 align="center">⚡ Sparky: Multi-Channel Sales AI</h4>
         <p align="center">
-          <b>Sole Full-Stack Developer</b> for a multi-channel AI assistant.
-          Engineered custom integration with <b>SAP APIs</b> to fetch real-time consumption data.
+          <b>Sole Full-Stack Developer</b> for an AI agent deployed on <b>Web, Telegram, & Email</b>.
+          <br/>
+          Capable of answering Q&A from a database, fetching real-time prices (SAP), running <b>price simulations</b>, and automatically generating & emailing PDF offers to clients.
           <br/><br/>
           <img src="https://img.shields.io/badge/SAP-008FD3?style=flat-square&logo=sap&logoColor=white" />
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -171,27 +172,3 @@
   <img src="https://img.shields.io/badge/Current_Academic_Focus-Thesis:_AI_in_IT_Service_Management-blueviolet?style=for-the-badge&logo=robotframework&logoColor=white" />
 </div>
 <br/>
-
-<hr/>
-<br/>
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=sanadly&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="stats" height="160"/>
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanadly&theme=tokyonight&hide_border=true&bg_color=0D1117&stroke=0000" alt="streak" height="160"/>
-      </td>
-    </tr>
-  </table>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanadly&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="languages" width="85%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github.com/sanadly/sanadly/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
-</div>
