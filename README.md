@@ -90,21 +90,20 @@
       </td>
     </tr>
     <tr>
-      <td width="50%" valign="top">
+      <td colspan="2" align="center" valign="top">
         <h4 align="center"><a href="#">🛒 Major Retailer (NDA) 🔒</a></h4>
-        <p align="center">
+        <p align="center" style="max-width: 600px;">
           <b>Client: Top-Tier E-Commerce Site</b>
           <br/>
-          Built a custom <b>Headless Platform (Medusa.js)</b> with deep <b>Zoho ERP</b> integration.
+          Built a custom <b>Headless Platform (Medusa.js + React)</b> with deep <b>Zoho ERP</b> integration.
           <br/>
           <i>Result: Fully automated inventory synchronization and order processing.</i>
           <br/><br/>
-          <img src="https://img.shields.io/badge/Tech-Medusa.js-purple?style=flat-square&logo=javascript&logoColor=white" />
+          <img src="https://img.shields.io/badge/Frontend-React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+          <img src="https://img.shields.io/badge/Backend-Medusa.js-purple?style=flat-square&logo=javascript&logoColor=white" />
           <img src="https://img.shields.io/badge/Integration-Zoho_ERP-0091D5?style=flat-square&logo=zoho&logoColor=white" />
         </p>
       </td>
-      <td width="50%" valign="top">
-        </td>
     </tr>
   </table>
 </div>
