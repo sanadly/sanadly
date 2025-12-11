@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://raqm.ly">
-    <img src="https://img.shields.io/badge/Raqm_Agency-Visit_Website-blueviolet?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Raqm_Agency-Co--Founder-blueviolet?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
 </div>
 
@@ -23,13 +23,11 @@
 <div align="center">
   <h3>👨‍💻 Engineering Business Growth</h3>
   <p style="max-width: 700px;">
-    I am a <b>Software Engineer</b> driven by a simple philosophy: code is a tool to solve business problems.
+    I am a <b>Software Engineer</b> passionate about building solutions that solve real business problems.
     <br/><br/>
-    As a core engineer at <a href="https://raqm.ly"><b>Raqm Agency</b></a>, I didn't just build features; I architected end-to-end solutions for <b>Logistics, Aviation, and Fintech</b> sectors. I specialize in identifying operational bottlenecks and building scalable software to automate them.
+    I previously co-founded <a href="https://raqm.ly"><b>Raqm Agency</b></a>, where I gained hands-on experience architecting full-stack solutions for the <b>Logistics, Aviation, and Fintech</b> sectors. This experience taught me how to translate complex requirements into reliable, scalable code.
     <br/><br/>
-    <i>"I don't just deliver code; I deliver optimized workflows, integrated systems, and measurable efficiency."</i>
-    <br/><br/>
-    Currently transitioning into <b>IT Consulting</b> to apply this technical pragmatism to enterprise-scale challenges.
+    <b>My Next Step:</b> While I have successfully delivered projects independently, <b>my goal now is to join an established engineering team.</b> I am eager to work alongside experienced mentors, adopt industry-standard best practices, and contribute to enterprise-scale systems.
   </p>
 </div>
 
@@ -78,7 +76,7 @@
         </p>
       </td>
       <td width="50%" valign="top">
-        <h4 align="center"><a href="https://darahim.ly">💳 Darahim (Ongoing) 🔗</a></h4>
+        <h4 align="center"><a href="https://darahim.ly">💳 Darahim (Production) 🔗</a></h4>
         <p align="center">
           <b>Client: Fintech Startup</b>
           <br/>
@@ -93,18 +91,6 @@
     </tr>
     <tr>
       <td width="50%" valign="top">
-        <h4 align="center"><a href="#">✈️ Medsky Airlines 🔗</a></h4>
-        <p align="center">
-          <b>Client: Commercial Airline</b>
-          <br/>
-          Integrated localized payment gateways unavailable in standard booking engines.
-          <br/>
-          <i>Result: Captured market share by enabling payments via local banking infrastructure.</i>
-          <br/><br/>
-          <img src="https://img.shields.io/badge/Focus-API_Integration-F59E0B?style=flat-square&logo=postman&logoColor=white" />
-        </p>
-      </td>
-      <td width="50%" valign="top">
         <h4 align="center"><a href="#">🛒 Major Retailer (NDA) 🔒</a></h4>
         <p align="center">
           <b>Client: Top-Tier E-Commerce Site</b>
@@ -117,6 +103,8 @@
           <img src="https://img.shields.io/badge/Integration-Zoho_ERP-0091D5?style=flat-square&logo=zoho&logoColor=white" />
         </p>
       </td>
+      <td width="50%" valign="top">
+        </td>
     </tr>
   </table>
 </div>
