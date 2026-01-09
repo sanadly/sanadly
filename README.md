@@ -1,14 +1,3 @@
-Here is the **fully updated code**.
-
-I have:
-
-1. Removed the "(NDA)" and lock icon from the **Major Retailer** project.
-2. Changed the layout of that row from a single full-width column to a **two-column grid**.
-3. Added the new **Custom Medical ERP** project next to the retailer project, complete with relevant badges highlighting its features (Workflow, Patients, Invoicing).
-
-### Copy & Paste this into your `README.md`
-
-```markdown
 <div align="center">
   <h1 align="center" style="display: inline-block">Hi, I'm <a href="https://github.com/sanadly">Sanad</a></h1>
   
@@ -194,5 +183,3 @@ I have:
   <img src="https://img.shields.io/badge/Current_Academic_Focus-Thesis:_AI_in_IT_Service_Management-blueviolet?style=for-the-badge&logo=robotframework&logoColor=white" />
 </div>
 <br/>
-
-```
