@@ -25,7 +25,7 @@
   <p style="max-width: 700px;">
     I am a <b>Software Engineer</b> passionate about building solutions that solve real business problems.
     <br/><br/>
-    I previously co-founded <a href="https://raqm.ly"><b>Raqm Agency</b></a>, where I gained hands-on experience architecting full-stack solutions for the <b>Logistics, Aviation, and Fintech</b> sectors. This experience taught me how to translate complex requirements into reliable, scalable code.
+    I previously co-founded <a href="https://raqm.ly"><b>Raqm Agency</b></a>, where I gained hands-on experience architecting full-stack solutions for the <b>Logistics, Retail, and Fintech</b> sectors. This experience taught me how to translate complex requirements into reliable, scalable code.
     <br/><br/>
     <b>My Next Step:</b> While I have successfully delivered projects independently, <b>my goal now is to join an established engineering team.</b> I am eager to work alongside experienced mentors, adopt industry-standard best practices, and contribute to enterprise-scale systems.
   </p>
